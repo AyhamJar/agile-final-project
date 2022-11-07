@@ -1,3 +1,3 @@
 # agile-final-project
 
-This repository contains the lab for agile planning
+This repository contains the project for agile planning
